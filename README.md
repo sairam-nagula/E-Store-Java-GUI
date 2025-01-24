@@ -1,0 +1,1 @@
+Developed a Java-based event-driven application that simulates an e-store, incorporating GUI design, file handling for inventory and transactions, and real-time cart management with tax calculations, enhancing skills in enterprise-level simulation and Java programming.
